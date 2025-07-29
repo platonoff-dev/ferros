@@ -2,3 +2,6 @@
 Cargo.lock
 /src/user/usys.rs
 /src/user/lib/_*
+.cargo
+.vscode
+.idea
